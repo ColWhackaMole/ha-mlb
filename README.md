@@ -2,7 +2,7 @@
 
 This integration fetches data for an MLB team's current/future game, and creates a sensor with attributes for the details of the game. 
 
-The integration is a shameless fork of the excellent [ha-nfl](https://github.com/zacs/ha-nfl) custom component by @zacs & [NWS alerts](https://github.com/finity69x2/nws_alerts) custom component by @finity69x2.Thank you for the starting place!
+The integration is a shameless fork of the excellent [ha-nfl](https://github.com/zacs/ha-nfl) custom component by @zacs & [NWS alerts](https://github.com/finity69x2/nws_alerts) custom component by @finity69x2. Thank you for the starting place!
 
 # All information below has not been updated yet
 
