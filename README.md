@@ -1,4 +1,4 @@
-# MLB game data in Home Assistant
+# MLB game data in Home Assistant - Non-Working - WIP
 
 This integration fetches data for an MLB team's current/future game, and creates a sensor with attributes for the details of the game. 
 
